@@ -1,0 +1,23 @@
+#one{
+	border :2px solid black;
+	padding-left: 50px;
+	width:950px;
+}
+#two {
+	font-size: 30px;
+}
+th{
+	font-size: 26px;
+}
+tr{
+	font-size: 26px;
+}
+p{
+	font-size: 26px;
+}
+li{
+	font-size: 26px;
+}
+#t{
+    padding-left: 202px;
+}
